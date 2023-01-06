@@ -3,7 +3,7 @@
 //import 'package:componentes/src/pages/home_temp.dart';
 
 import 'package:flutter/material.dart';
-import 'package:componentes/src/pages/routes/routes.dart';
+import 'package:componentes/src/routes/routes.dart';
 import 'package:componentes/src/pages/alert_page.dart';
 
 
