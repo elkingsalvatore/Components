@@ -86,8 +86,6 @@ class CardPage extends StatelessWidget {
             height: 300.0,
             fit: BoxFit.cover,
           ),
-
-
           //Image(
            //image: NetworkImage('http://2.bp.blogspot.com/-RLB-j_B9dPI/VWUYM1q9XuI/AAAAAAAAAUs/B1v5LuJ4R8Y/s1600/Beautiful%2BLandscapes%2Bin%2BSwitzerland%2BWallpaper.jpg'
            //),

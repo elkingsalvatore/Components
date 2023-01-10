@@ -35,7 +35,7 @@ class MyApp extends StatelessWidget {
 
       //onGenerateRoute: (RouteSettings settings ){
 
-        //print('Ruta llamada: ${ settings.name }' ); //llamamos la ruta que se selecciona o pantalla y la muestra desde la terminal auqnue haya error, así se identifica
+        //print('Ruta llamada: ${ settings.name }' ); //llamamos la ruta que se selecciona o pantalla y la muestra desde la terminal aunque haya error, así se identifica
 
         //return MaterialPageRoute(
           //builder: ( BuildContext context ) => AlertPage()
